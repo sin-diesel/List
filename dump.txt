@@ -1,0 +1,275 @@
+Calling Dump for list
+List 0x7ffee8b28980
+List max size: 30
+Current list size: 10
+Head value: 8
+Head next:  8
+Head prev:  7
+Tail value: 7
+Tail next:  8
+Tail prev:  3
+Free current value: 11
+Free next value: 12
+Free prev value: -1
+
+
+
+Dumping elements:
+Element [0] value = 0;
+Element [0] next = 0;
+Element [0] prev = 0;
+
+Element [1] value = 666;
+Element [1] next = 666;
+Element [1] prev = 666;
+
+Element [2] value = 0;
+Element [2] next = -1;
+Element [2] prev = -1;
+
+Element [3] value = 1000;
+Element [3] next = 10;
+Element [3] prev = 6;
+
+Element [4] value = 6;
+Element [4] next = 6;
+Element [4] prev = 5;
+
+Element [5] value = 9;
+Element [5] next = 4;
+Element [5] prev = 6;
+
+Element [6] value = 17;
+Element [6] next = 3;
+Element [6] prev = 4;
+
+Element [7] value = 2000;
+Element [7] next = 8;
+Element [7] prev = 10;
+
+Element [8] value = 9;
+Element [8] next = 5;
+Element [8] prev = 7;
+
+Element [9] value = 666;
+Element [9] next = 666;
+Element [9] prev = 666;
+
+Element [10] value = 500;
+Element [10] next = 7;
+Element [10] prev = 3;
+
+Element [11] value = 666;
+Element [11] next = 666;
+Element [11] prev = 666;
+
+Element [12] value = 666;
+Element [12] next = 666;
+Element [12] prev = 666;
+
+Element [13] value = 666;
+Element [13] next = 666;
+Element [13] prev = 666;
+
+Element [14] value = 666;
+Element [14] next = 666;
+Element [14] prev = 666;
+
+Element [15] value = 666;
+Element [15] next = 666;
+Element [15] prev = 666;
+
+Element [16] value = 666;
+Element [16] next = 666;
+Element [16] prev = 666;
+
+Element [17] value = 666;
+Element [17] next = 666;
+Element [17] prev = 666;
+
+Element [18] value = 666;
+Element [18] next = 666;
+Element [18] prev = 666;
+
+Element [19] value = 666;
+Element [19] next = 666;
+Element [19] prev = 666;
+
+Element [20] value = 666;
+Element [20] next = 666;
+Element [20] prev = 666;
+
+Element [21] value = 666;
+Element [21] next = 666;
+Element [21] prev = 666;
+
+Element [22] value = 666;
+Element [22] next = 666;
+Element [22] prev = 666;
+
+Element [23] value = 666;
+Element [23] next = 666;
+Element [23] prev = 666;
+
+Element [24] value = 666;
+Element [24] next = 666;
+Element [24] prev = 666;
+
+Element [25] value = 666;
+Element [25] next = 666;
+Element [25] prev = 666;
+
+Element [26] value = 666;
+Element [26] next = 666;
+Element [26] prev = 666;
+
+Element [27] value = 666;
+Element [27] next = 666;
+Element [27] prev = 666;
+
+Element [28] value = 666;
+Element [28] next = 666;
+Element [28] prev = 666;
+
+Element [29] value = 666;
+Element [29] next = 666;
+Element [29] prev = 666;
+
+Error code: 0 Calling Dump for list
+List 0x7ffeec1b9980
+List max size: 30
+Current list size: 10
+Head value: 8
+Head next:  8
+Head prev:  7
+Tail value: 7
+Tail next:  8
+Tail prev:  3
+Free current value: 11
+Free next value: 12
+Free prev value: -1
+
+
+
+Dumping elements:
+Element [0] value = 0;
+Element [0] next = 0;
+Element [0] prev = 0;
+
+Element [1] value = 666;
+Element [1] next = 666;
+Element [1] prev = 666;
+
+Element [2] value = 0;
+Element [2] next = -1;
+Element [2] prev = -1;
+
+Element [3] value = 1000;
+Element [3] next = 10;
+Element [3] prev = 6;
+
+Element [4] value = 6;
+Element [4] next = 6;
+Element [4] prev = 5;
+
+Element [5] value = 9;
+Element [5] next = 4;
+Element [5] prev = 6;
+
+Element [6] value = 17;
+Element [6] next = 3;
+Element [6] prev = 4;
+
+Element [7] value = 2000;
+Element [7] next = 8;
+Element [7] prev = 10;
+
+Element [8] value = 9;
+Element [8] next = 5;
+Element [8] prev = 7;
+
+Element [9] value = 666;
+Element [9] next = 666;
+Element [9] prev = 666;
+
+Element [10] value = 500;
+Element [10] next = 7;
+Element [10] prev = 3;
+
+Element [11] value = 666;
+Element [11] next = 666;
+Element [11] prev = 666;
+
+Element [12] value = 666;
+Element [12] next = 666;
+Element [12] prev = 666;
+
+Element [13] value = 666;
+Element [13] next = 666;
+Element [13] prev = 666;
+
+Element [14] value = 666;
+Element [14] next = 666;
+Element [14] prev = 666;
+
+Element [15] value = 666;
+Element [15] next = 666;
+Element [15] prev = 666;
+
+Element [16] value = 666;
+Element [16] next = 666;
+Element [16] prev = 666;
+
+Element [17] value = 666;
+Element [17] next = 666;
+Element [17] prev = 666;
+
+Element [18] value = 666;
+Element [18] next = 666;
+Element [18] prev = 666;
+
+Element [19] value = 666;
+Element [19] next = 666;
+Element [19] prev = 666;
+
+Element [20] value = 666;
+Element [20] next = 666;
+Element [20] prev = 666;
+
+Element [21] value = 666;
+Element [21] next = 666;
+Element [21] prev = 666;
+
+Element [22] value = 666;
+Element [22] next = 666;
+Element [22] prev = 666;
+
+Element [23] value = 666;
+Element [23] next = 666;
+Element [23] prev = 666;
+
+Element [24] value = 666;
+Element [24] next = 666;
+Element [24] prev = 666;
+
+Element [25] value = 666;
+Element [25] next = 666;
+Element [25] prev = 666;
+
+Element [26] value = 666;
+Element [26] next = 666;
+Element [26] prev = 666;
+
+Element [27] value = 666;
+Element [27] next = 666;
+Element [27] prev = 666;
+
+Element [28] value = 666;
+Element [28] next = 666;
+Element [28] prev = 666;
+
+Element [29] value = 666;
+Element [29] next = 666;
+Element [29] prev = 666;
+
+Error code: 0 
